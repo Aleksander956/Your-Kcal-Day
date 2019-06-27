@@ -1,0 +1,17 @@
+﻿<Window x:Class="Your_Kcal_Day.Settings"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Your_Kcal_Day"
+        mc:Ignorable="d"
+        Title="Settings" Height="305.481" Width="360.964">
+    <Grid Margin="0,0,368,112">
+        <Label Content="Wzrost" Margin="142,31,-189,99"/>
+        <TextBox x:Name="wzrost_input" TextWrapping="Wrap" Margin="108,63,-228,63"/>
+        <Label Content="Waga" RenderTransformOrigin="-0.137,-0.246" Margin="147,91,-187,35"/>
+        <TextBox x:Name="waga_input" TextWrapping="Wrap" Margin="108,128,-228,1"/>
+        <Button x:Name="start_button" Content="Edytuj" Click="Start_button_Click" Margin="118,178,-214,-51"/>
+
+    </Grid>
+</Window>

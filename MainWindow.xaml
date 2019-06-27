@@ -1,0 +1,30 @@
+﻿<Window x:Class="Your_Kcal_Day.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Your_Kcal_Day"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="371.485" Width="550.96">
+    <Canvas RenderTransformOrigin="0.5,0.5" Margin="0,-1,128,69">
+        <Canvas.RenderTransform>
+            <TransformGroup>
+                <ScaleTransform/>
+                <SkewTransform/>
+                <RotateTransform Angle="0.572"/>
+                <TranslateTransform/>
+            </TransformGroup>
+        </Canvas.RenderTransform>
+        <Label Content="Cześć!" Canvas.Left="209" Canvas.Top="14" Height="60" Width="120" FontSize="36" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+        <Label Content="Aby rozpocząć podaj swoje dane:" Canvas.Left="149" Canvas.Top="81" FontSize="16"/>
+        <Label Content="Wzrost" Canvas.Left="242" Canvas.Top="119"/>
+        <TextBox x:Name="wzrost_input" Height="23" Canvas.Left="208" TextWrapping="Wrap" Canvas.Top="145" Width="120"/>
+        <Label Content="Waga" Canvas.Left="247" Canvas.Top="183" RenderTransformOrigin="-0.137,-0.246"/>
+        <TextBox x:Name="waga_input" Height="23" Canvas.Left="208" TextWrapping="Wrap" Canvas.Top="210" Width="120"/>
+        <Button x:Name="start_button" Content="Rozpocznij" Canvas.Left="218" Canvas.Top="286" Width="96" Height="35" Click="Start_button_Click"/>
+        <Label Content="cm&#xD;&#xA;" Canvas.Left="329" Canvas.Top="143" RenderTransformOrigin="0.038,0.451"/>
+        <Label Content="kg" Canvas.Left="329" Canvas.Top="208"/>
+        <RadioButton x:Name="SexInputM" GroupName="sex" Content="Mężczyzna" Canvas.Left="269" Canvas.Top="257" Checked="SelectSex"/>
+        <RadioButton x:Name="SexInputF" GroupName="sex" Content="Kobieta" Canvas.Left="195" Canvas.Top="257" Checked="SelectSex"/>
+    </Canvas>
+</Window>

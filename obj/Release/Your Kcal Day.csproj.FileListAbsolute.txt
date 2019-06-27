@@ -1,0 +1,43 @@
+C:\Users\Dawid\source\repos\Your Kcal Day\Your Kcal Day\bin\Release\Your Kcal Day.exe.config
+C:\Users\Dawid\source\repos\Your Kcal Day\Your Kcal Day\bin\Release\Your Kcal Day.exe
+C:\Users\Dawid\source\repos\Your Kcal Day\Your Kcal Day\bin\Release\Your Kcal Day.pdb
+C:\Users\Dawid\source\repos\Your Kcal Day\Your Kcal Day\bin\Release\AutoCompleteTextBox.dll
+C:\Users\Dawid\source\repos\Your Kcal Day\Your Kcal Day\bin\Release\CsvHelper.dll
+C:\Users\Dawid\source\repos\Your Kcal Day\Your Kcal Day\bin\Release\Newtonsoft.Json.dll
+C:\Users\Dawid\source\repos\Your Kcal Day\Your Kcal Day\bin\Release\System.ValueTuple.dll
+C:\Users\Dawid\source\repos\Your Kcal Day\Your Kcal Day\bin\Release\Xceed.Wpf.AvalonDock.dll
+C:\Users\Dawid\source\repos\Your Kcal Day\Your Kcal Day\bin\Release\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\Dawid\source\repos\Your Kcal Day\Your Kcal Day\bin\Release\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\Dawid\source\repos\Your Kcal Day\Your Kcal Day\bin\Release\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\Dawid\source\repos\Your Kcal Day\Your Kcal Day\bin\Release\Xceed.Wpf.Toolkit.dll
+C:\Users\Dawid\source\repos\Your Kcal Day\Your Kcal Day\bin\Release\CsvHelper.xml
+C:\Users\Dawid\source\repos\Your Kcal Day\Your Kcal Day\bin\Release\Newtonsoft.Json.xml
+C:\Users\Dawid\source\repos\Your Kcal Day\Your Kcal Day\bin\Release\System.ValueTuple.xml
+C:\Users\Dawid\source\repos\Your Kcal Day\Your Kcal Day\bin\Release\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Dawid\source\repos\Your Kcal Day\Your Kcal Day\bin\Release\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Dawid\source\repos\Your Kcal Day\Your Kcal Day\bin\Release\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Dawid\source\repos\Your Kcal Day\Your Kcal Day\bin\Release\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Dawid\source\repos\Your Kcal Day\Your Kcal Day\bin\Release\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Dawid\source\repos\Your Kcal Day\Your Kcal Day\bin\Release\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Dawid\source\repos\Your Kcal Day\Your Kcal Day\bin\Release\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Dawid\source\repos\Your Kcal Day\Your Kcal Day\bin\Release\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Dawid\source\repos\Your Kcal Day\Your Kcal Day\bin\Release\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Dawid\source\repos\Your Kcal Day\Your Kcal Day\bin\Release\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Dawid\source\repos\Your Kcal Day\Your Kcal Day\obj\Release\AddProductWindow.g.cs
+C:\Users\Dawid\source\repos\Your Kcal Day\Your Kcal Day\obj\Release\MainWindow.g.cs
+C:\Users\Dawid\source\repos\Your Kcal Day\Your Kcal Day\obj\Release\Profile.g.cs
+C:\Users\Dawid\source\repos\Your Kcal Day\Your Kcal Day\obj\Release\Settings.g.cs
+C:\Users\Dawid\source\repos\Your Kcal Day\Your Kcal Day\obj\Release\App.g.cs
+C:\Users\Dawid\source\repos\Your Kcal Day\Your Kcal Day\obj\Release\Your Kcal Day_MarkupCompile.cache
+C:\Users\Dawid\source\repos\Your Kcal Day\Your Kcal Day\obj\Release\Your Kcal Day_MarkupCompile.lref
+C:\Users\Dawid\source\repos\Your Kcal Day\Your Kcal Day\obj\Release\AddProductWindow.baml
+C:\Users\Dawid\source\repos\Your Kcal Day\Your Kcal Day\obj\Release\MainWindow.baml
+C:\Users\Dawid\source\repos\Your Kcal Day\Your Kcal Day\obj\Release\Profile.baml
+C:\Users\Dawid\source\repos\Your Kcal Day\Your Kcal Day\obj\Release\Settings.baml
+C:\Users\Dawid\source\repos\Your Kcal Day\Your Kcal Day\obj\Release\Your Kcal Day.g.resources
+C:\Users\Dawid\source\repos\Your Kcal Day\Your Kcal Day\obj\Release\Your_Kcal_Day.Properties.Resources.resources
+C:\Users\Dawid\source\repos\Your Kcal Day\Your Kcal Day\obj\Release\Your Kcal Day.csproj.GenerateResource.cache
+C:\Users\Dawid\source\repos\Your Kcal Day\Your Kcal Day\obj\Release\Your Kcal Day.csproj.CoreCompileInputs.cache
+C:\Users\Dawid\source\repos\Your Kcal Day\Your Kcal Day\obj\Release\Your Kcal Day.csproj.CopyComplete
+C:\Users\Dawid\source\repos\Your Kcal Day\Your Kcal Day\obj\Release\Your Kcal Day.exe
+C:\Users\Dawid\source\repos\Your Kcal Day\Your Kcal Day\obj\Release\Your Kcal Day.pdb

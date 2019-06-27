@@ -1,0 +1,88 @@
+C:\Users\Dawid\source\repos\Your Kcal Day\Your Kcal Day\bin\Debug\Your Kcal Day.exe.config
+C:\Users\Dawid\source\repos\Your Kcal Day\Your Kcal Day\bin\Debug\Your Kcal Day.exe
+C:\Users\Dawid\source\repos\Your Kcal Day\Your Kcal Day\bin\Debug\Your Kcal Day.pdb
+C:\Users\Dawid\source\repos\Your Kcal Day\Your Kcal Day\obj\Debug\Your Kcal Day.csprojAssemblyReference.cache
+C:\Users\Dawid\source\repos\Your Kcal Day\Your Kcal Day\obj\Debug\MainWindow.g.cs
+C:\Users\Dawid\source\repos\Your Kcal Day\Your Kcal Day\obj\Debug\App.g.cs
+C:\Users\Dawid\source\repos\Your Kcal Day\Your Kcal Day\obj\Debug\Your Kcal Day_MarkupCompile.cache
+C:\Users\Dawid\source\repos\Your Kcal Day\Your Kcal Day\obj\Debug\Your Kcal Day_MarkupCompile.lref
+C:\Users\Dawid\source\repos\Your Kcal Day\Your Kcal Day\obj\Debug\MainWindow.baml
+C:\Users\Dawid\source\repos\Your Kcal Day\Your Kcal Day\obj\Debug\Your Kcal Day.g.resources
+C:\Users\Dawid\source\repos\Your Kcal Day\Your Kcal Day\obj\Debug\Your_Kcal_Day.Properties.Resources.resources
+C:\Users\Dawid\source\repos\Your Kcal Day\Your Kcal Day\obj\Debug\Your Kcal Day.csproj.GenerateResource.cache
+C:\Users\Dawid\source\repos\Your Kcal Day\Your Kcal Day\obj\Debug\Your Kcal Day.csproj.CoreCompileInputs.cache
+C:\Users\Dawid\source\repos\Your Kcal Day\Your Kcal Day\obj\Debug\Your Kcal Day.exe
+C:\Users\Dawid\source\repos\Your Kcal Day\Your Kcal Day\obj\Debug\Your Kcal Day.pdb
+C:\Users\Dawid\source\repos\Your Kcal Day\Your Kcal Day\obj\Debug\Profile.g.cs
+C:\Users\Dawid\source\repos\Your Kcal Day\Your Kcal Day\obj\Debug\Profile.baml
+C:\Users\Dawid\source\repos\Your Kcal Day\Your Kcal Day\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Dawid\source\repos\Your Kcal Day\Your Kcal Day\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Dawid\source\repos\Your Kcal Day\Your Kcal Day\obj\Debug\Your Kcal Day.csproj.CopyComplete
+C:\Users\Dawid\source\repos\Your Kcal Day\Your Kcal Day\bin\Debug\CsvHelper.dll
+C:\Users\Dawid\source\repos\Your Kcal Day\Your Kcal Day\bin\Debug\System.ValueTuple.dll
+C:\Users\Dawid\source\repos\Your Kcal Day\Your Kcal Day\bin\Debug\CsvHelper.xml
+C:\Users\Dawid\source\repos\Your Kcal Day\Your Kcal Day\bin\Debug\System.ValueTuple.xml
+C:\Users\Dawid\source\repos\Your Kcal Day\Your Kcal Day\bin\Debug\AutoCompleteTextBox.dll
+C:\Users\Dawid\source\repos\Your Kcal Day\Your Kcal Day\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\Dawid\source\repos\Your Kcal Day\Your Kcal Day\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\Dawid\source\repos\Your Kcal Day\Your Kcal Day\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\Dawid\source\repos\Your Kcal Day\Your Kcal Day\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\Dawid\source\repos\Your Kcal Day\Your Kcal Day\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\Dawid\source\repos\Your Kcal Day\Your Kcal Day\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Dawid\source\repos\Your Kcal Day\Your Kcal Day\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Dawid\source\repos\Your Kcal Day\Your Kcal Day\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Dawid\source\repos\Your Kcal Day\Your Kcal Day\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Dawid\source\repos\Your Kcal Day\Your Kcal Day\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Dawid\source\repos\Your Kcal Day\Your Kcal Day\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Dawid\source\repos\Your Kcal Day\Your Kcal Day\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Dawid\source\repos\Your Kcal Day\Your Kcal Day\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Dawid\source\repos\Your Kcal Day\Your Kcal Day\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Dawid\source\repos\Your Kcal Day\Your Kcal Day\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Dawid\source\repos\Your Kcal Day\Your Kcal Day\obj\Debug\AddProductWindow.g.cs
+C:\Users\Dawid\source\repos\Your Kcal Day\Your Kcal Day\obj\Debug\AddProductWindow.baml
+C:\Users\Dawid\source\repos\Your Kcal Day\Your Kcal Day\obj\Debug\Settings.g.cs
+C:\Users\Dawid\source\repos\Your Kcal Day\Your Kcal Day\obj\Debug\Settings.baml
+C:\Users\Asus\Documents\Your Kcal Day\Your Kcal Day\bin\Debug\Your Kcal Day.exe.config
+C:\Users\Asus\Documents\Your Kcal Day\Your Kcal Day\bin\Debug\Your Kcal Day.exe
+C:\Users\Asus\Documents\Your Kcal Day\Your Kcal Day\bin\Debug\Your Kcal Day.pdb
+C:\Users\Asus\Documents\Your Kcal Day\Your Kcal Day\bin\Debug\AutoCompleteTextBox.dll
+C:\Users\Asus\Documents\Your Kcal Day\Your Kcal Day\bin\Debug\CsvHelper.dll
+C:\Users\Asus\Documents\Your Kcal Day\Your Kcal Day\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Asus\Documents\Your Kcal Day\Your Kcal Day\bin\Debug\System.ValueTuple.dll
+C:\Users\Asus\Documents\Your Kcal Day\Your Kcal Day\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\Asus\Documents\Your Kcal Day\Your Kcal Day\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\Asus\Documents\Your Kcal Day\Your Kcal Day\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\Asus\Documents\Your Kcal Day\Your Kcal Day\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\Asus\Documents\Your Kcal Day\Your Kcal Day\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\Asus\Documents\Your Kcal Day\Your Kcal Day\bin\Debug\CsvHelper.xml
+C:\Users\Asus\Documents\Your Kcal Day\Your Kcal Day\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Asus\Documents\Your Kcal Day\Your Kcal Day\bin\Debug\System.ValueTuple.xml
+C:\Users\Asus\Documents\Your Kcal Day\Your Kcal Day\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Asus\Documents\Your Kcal Day\Your Kcal Day\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Asus\Documents\Your Kcal Day\Your Kcal Day\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Asus\Documents\Your Kcal Day\Your Kcal Day\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Asus\Documents\Your Kcal Day\Your Kcal Day\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Asus\Documents\Your Kcal Day\Your Kcal Day\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Asus\Documents\Your Kcal Day\Your Kcal Day\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Asus\Documents\Your Kcal Day\Your Kcal Day\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Asus\Documents\Your Kcal Day\Your Kcal Day\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Asus\Documents\Your Kcal Day\Your Kcal Day\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Asus\Documents\Your Kcal Day\Your Kcal Day\obj\Debug\Your Kcal Day.csprojAssemblyReference.cache
+C:\Users\Asus\Documents\Your Kcal Day\Your Kcal Day\obj\Debug\AddProductWindow.g.cs
+C:\Users\Asus\Documents\Your Kcal Day\Your Kcal Day\obj\Debug\MainWindow.g.cs
+C:\Users\Asus\Documents\Your Kcal Day\Your Kcal Day\obj\Debug\Profile.g.cs
+C:\Users\Asus\Documents\Your Kcal Day\Your Kcal Day\obj\Debug\Settings.g.cs
+C:\Users\Asus\Documents\Your Kcal Day\Your Kcal Day\obj\Debug\App.g.cs
+C:\Users\Asus\Documents\Your Kcal Day\Your Kcal Day\obj\Debug\Your Kcal Day_MarkupCompile.cache
+C:\Users\Asus\Documents\Your Kcal Day\Your Kcal Day\obj\Debug\Your Kcal Day_MarkupCompile.lref
+C:\Users\Asus\Documents\Your Kcal Day\Your Kcal Day\obj\Debug\AddProductWindow.baml
+C:\Users\Asus\Documents\Your Kcal Day\Your Kcal Day\obj\Debug\MainWindow.baml
+C:\Users\Asus\Documents\Your Kcal Day\Your Kcal Day\obj\Debug\Profile.baml
+C:\Users\Asus\Documents\Your Kcal Day\Your Kcal Day\obj\Debug\Settings.baml
+C:\Users\Asus\Documents\Your Kcal Day\Your Kcal Day\obj\Debug\Your Kcal Day.g.resources
+C:\Users\Asus\Documents\Your Kcal Day\Your Kcal Day\obj\Debug\Your_Kcal_Day.Properties.Resources.resources
+C:\Users\Asus\Documents\Your Kcal Day\Your Kcal Day\obj\Debug\Your Kcal Day.csproj.GenerateResource.cache
+C:\Users\Asus\Documents\Your Kcal Day\Your Kcal Day\obj\Debug\Your Kcal Day.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Documents\Your Kcal Day\Your Kcal Day\obj\Debug\Your Kcal Day.csproj.CopyComplete
+C:\Users\Asus\Documents\Your Kcal Day\Your Kcal Day\obj\Debug\Your Kcal Day.exe
+C:\Users\Asus\Documents\Your Kcal Day\Your Kcal Day\obj\Debug\Your Kcal Day.pdb
